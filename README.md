@@ -39,14 +39,22 @@ On the main page, there are six options (characterized with icons): Restart, Pau
 | 0530471410 | Display 14 Pin Connector | 1 | $0.81 | $0.81 | [DigiKey](https://www.digikey.com/en/products/detail/molex/0530471410/259377) | $28.03
 | ILI9341 | 2.4 Inch TFT Display | 1 | $5.16 | $5.16 | [AliExpress](https://www.aliexpress.us/item/3256803732365701.html?algo_pvid=335efabf-7043-43e3-b1e5-88cb6faf5a31&algo_exp_id=335efabf-7043-43e3-b1e5-88cb6faf5a31-15&pdp_ext_f=%7B%22order%22%3A%22208%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.45%211.78%21%21%214.45%211.78%21%402103128917785486140741950e4710%2112000056542062912%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A46ae3b9e%3Bm03_new_user%3A-29895%3BpisId%3A5000000204886261&curPageLogUid=W4D3fCRCIHOw&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003918680453%7C_p_origin_prod%3A) | $33.19
 | PCB | JLCPCB for project | 5 | $1.64 | $8.20 | [JLCPCB](https://jlcpcb.com/) | $41.39
-| SC32A-6PF20PPM | 32.768Khz Crystal | 1 | $0.69 | $0.69 | [Mouser](https://www.mouser.com/ProductDetail/Seiko-Instruments/SC32A-6PF20PPM?qs=Imq1NPwxi76SI853puRy%252Bw%3D%3D) | $42.08
-| MBA02040C3003FC100 | 300K Ohm Resistor | 1 | $0.66 | $0.66 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C3003FC100/7350347) | $42.74
-| MBA02040C1002FRP00 | 10K Ohm Resistor | 10 | $0.095 | $0.95 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C1002FRP00/336349) | $43.69
-| MBA02040Z0000ZCT00 | 0 Ohm Resistor | 2 | $0.14 | $0.28 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040Z0000ZCT00/5066485) | $43.97
-| MBA02040C5104FC100 | 5.1M Ohm Resistor | 1 | $0.39 | $0.39 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C5104FC100/5059352?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIA7BQJwQC6hADgC5QgDKzATgJYB2AcxABfQgCYADAA4ArIhApIGHAWJkQMgHRgABAFkA8gAsAtthAMQLNgFU%2BPZgdR7c6bAFcuuEYQC0Y%2BUVud1USSHI5OmFREADwkC9sHmxmIi5zKKA) | $44.36
-| MBA02040C4707JC100 | 470 Ohm Resistor | 2 | $0.49 | $0.98 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C4707JC100/5059320?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIA7BQJwQC6hADgC5QgDKzATgJYB2AcxABfQgCYADAA4ArIhApIGHAWJkQMChIAEAWwDyAC13YQDECzYBVPj2b7UAWVzpsAVy64RhALRj5itxuqiSQ5HJ0wqIg-mEgntg82MxEXKaRQA) | $45.34
-| MBA02040C5101FRP00 | 5.1K Ohm Resistor | 2 | $0.11 | $0.22 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C5101FRP00/333758) | $45.56
-| MBA02040C2209FCT00 | 22 Ohm Resistor | 2 | $0.21 | $0.42 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C2209FCT00/5062426) | $45.98
+| ABS07-32.768KHZ-T | 32.768 Khz Crsytal | 1 | $0.61 | $0.61 | [Digikey](https://www.digikey.com/en/products/detail/abracon-llc/ABS07-32-768KHZ-T/1236858) | $42.00
+| MBA02040C3003FC100 | 300K Ohm Resistor | 1 | $0.66 | $0.66 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C3003FC100/7350347) | $42.66
+| MBA02040C1002FRP00 | 10K Ohm Resistor | 10 | $0.095 | $0.95 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C1002FRP00/336349) | $43.61
+| MBA02040Z0000ZCT00 | 0 Ohm Resistor | 2 | $0.14 | $0.28 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040Z0000ZCT00/5066485) | $43.89
+| MBA02040C5104FC100 | 5.1M Ohm Resistor | 1 | $0.39 | $0.39 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C5104FC100/5059352?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIA7BQJwQC6hADgC5QgDKzATgJYB2AcxABfQgCYADAA4ArIhApIGHAWJkQMgHRgABAFkA8gAsAtthAMQLNgFU%2BPZgdR7c6bAFcuuEYQC0Y%2BUVud1USSHI5OmFREADwkC9sHmxmIi5zKKA) | $44.28
+| MBA02040C4707JC100 | 470 Ohm Resistor | 2 | $0.49 | $0.98 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C4707JC100/5059320?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIA7BQJwQC6hADgC5QgDKzATgJYB2AcxABfQgCYADAA4ArIhApIGHAWJkQMChIAEAWwDyAC13YQDECzYBVPj2b7UAWVzpsAVy64RhALRj5itxuqiSQ5HJ0wqIg-mEgntg82MxEXKaRQA) | $45.26
+| MBA02040C5101FRP00 | 5.1K Ohm Resistor | 2 | $0.11 | $0.22 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C5101FRP00/333758) | $45.48
+| MBA02040C2209FCT00 | 22 Ohm Resistor | 2 | $0.21 | $0.42 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C2209FCT00/5062426) | $45.90
+| FK14X5R0J226MR020 | 22 µF Capacitor | 2 | $0.50 | $1.00 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FK14X5R0J226MR020/2815215) | $46.90
+| FK14X7R2A104KN020 | 0.1 µF Capacitor | 10 | $0.253 | $2.53 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FK14X7R2A104KN020/2815243) | $49.43
+| FG18C0G1H120JNT06 | 12pF Capacitor | 2 | $0.22 | $0.44 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FG18C0G1H120JNT06/5802787) | $49.87
+| FG18X7R1A225KRT06 | 2.2 µF Capacitor | 4 | $0.32 | $1.28 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FG18X7R1A225KRT06/5802874) | $51.15
+| FK18X5R0J105KN020 | 1 µF Capacitor | 2 | $0.28 | $0.56 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FK18X5R0J105KN020/2815325) | $51.71
+| FK18X5R1A475KR020 | 4.7 µF Capacitor | 1 | $0.34 | $0.34 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FK18X5R1A475KR020/2815334) | $52.05
+| ECE-A1EKA100I | 10 µF Polarized Capacitor | 5 | $0.26 | $1.30 | [Digikey](https://www.digikey.com/en/products/detail/panasonic-industry/ECE-A1EKA100I/2689086) | $53.35
+
 
 **Enjoy!**
 ---
