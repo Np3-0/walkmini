@@ -2,30 +2,30 @@ Part Name,Description,Quantity,Unit Price,Total Price,URL,Running Total
 ESP32-WROOM-32E-N4,MCU,1,$3.22,$3.22,AliExpress,$3.43
 CP2102-GMR,USB to UART,1,$0.80,$0.80,AliBaba,$4.28
 SD-6-B,SD Card Reader,1,$0.58,$0.58,Same Sky,$4.90
-1825910-6,6mm Button,62,$0.06,$3.53,AliExpress,$8.67
-PCM5102APWR,Audio Jack Controller,1,$1.00,$1.00,AliBaba,$9.74
-MAX98357AETE+T,Speaker Controller,1,$0.10,$0.10,AliBaba,$9.85
-SJ-3523-SMT-TR,Headphone Jack,1,$0.88,$0.88,DigiKey,$10.79
-AI-4328-P-C120D-R,Speaker,1,$16.92,$16.92,DigiKey,$28.83
-2477,Battery Holder,1,$1.87,$1.87,Digikey,$30.82
-MCP1826S-3302E/AB,LDO,1,$0.66,$0.66,AliBaba,$31.52
-USB4085-GF-A,USB-C Connector,1,$0.04,$0.04,AliBaba,$31.56
-1N5819,Schottky Diode,1,$0.01,$0.01,AliBaba,$31.57
-530471410,Display 14 Pin Connector,1,$0.81,$0.81,DigiKey,$32.43
-ILI9341,2.4 Inch TFT Display,1,$5.16,$5.16,AliExpress,$37.93
-PCB,JLCPCB for project,5,$1.64,$8.20,JLCPCB,$46.67
-ABS07-32.768KHZ-T,32.768 Khz Crsytal,1,$0.61,$0.61,Digikey,$47.32
-MBA02040C3003FC100,300K Ohm Resistor,1,$0.66,$0.66,Digikey,$48.02
-MBA02040C1002FRP00,10K Ohm Resistor,10,$0.10,$0.95,Digikey,$49.03
-MBA02040Z0000ZCT00,0 Ohm Resistor,2,$0.14,$0.28,Digikey,$49.33
-MBA02040C5104FC100,5M Ohm Resistor,1,$0.39,$0.39,Digikey,$49.75
-MBA02040C4707JC100,470 Ohm Resistor,2,$0.49,$0.98,Digikey,$50.79
-MBA02040C5101FRP00,5.1K Ohm Resistor,2,$0.11,$0.22,Digikey,$51.02
-MBA02040C2209FCT00,22 Ohm Resistor,2,$0.21,$0.42,Digikey,$51.47
-FK14X5R0J226MR020,22 µF Capacitor,2,$0.50,$1.00,Digikey,$52.54
-FK14X7R2A104KN020,0.1 µF Capacitor,10,$0.25,$2.53,Digikey,$55.24
-FG18C0G1H120JNT06,12pF Capacitor,2,$0.22,$0.44,Digikey,$55.71
-FG18X7R1A225KRT06,2.2 µF Capacitor,4,$0.32,$1.28,Digikey,$57.07
-FK18X5R0J105KN020,1 µF Capacitor,2,$0.28,$0.56,Digikey,$57.67
-FK18X5R1A475KR020,4.7 µF Capacitor,1,$0.34,$0.34,Digikey,$58.03
-ECE-A1EKA100I,10 µF Polarized Capacitor,5,$0.26,$1.30,Digikey,$59.42
+1825910-6,6mm Button,6,$0.06,$0.34,AliExpress,$5.26
+PCM5102APWR,Audio Jack Controller,1,$1.00,$1.00,AliBaba,$6.33
+MAX98357AETE+T,Speaker Controller,1,$0.10,$0.10,AliBaba,$6.44
+SJ-3523-SMT-TR,Headphone Jack,1,$0.88,$0.88,DigiKey,$7.38
+AI-4328-P-C120D-R,Speaker,1,$16.92,$16.92,DigiKey,$25.42
+2477,Battery Holder,1,$1.87,$1.87,Digikey,$27.41
+MCP1826S-3302E/AB,LDO,1,$0.66,$0.66,AliBaba,$28.11
+USB4085-GF-A,USB-C Connector,1,$0.04,$0.04,AliBaba,$28.15
+1N5819,Schottky Diode,1,$0.01,$0.01,AliBaba,$28.16
+530471410,Display 14 Pin Connector,1,$0.81,$0.81,DigiKey,$29.02
+ILI9341,2.4 Inch TFT Display,1,$5.16,$5.16,AliExpress,$34.52
+PCB,JLCPCB for project,5,$1.64,$8.20,JLCPCB,$43.26
+ABS07-32.768KHZ-T,32.768 Khz Crsytal,1,$0.61,$0.61,Digikey,$43.91
+MBA02040C3003FC100,300K Ohm Resistor,1,$0.66,$0.66,Digikey,$44.61
+MBA02040C1002FRP00,10K Ohm Resistor,10,$0.10,$0.95,Digikey,$45.62
+MBA02040Z0000ZCT00,0 Ohm Resistor,2,$0.14,$0.28,Digikey,$45.92
+MBA02040C5104FC100,5M Ohm Resistor,1,$0.39,$0.39,Digikey,$46.34
+MBA02040C4707JC100,470 Ohm Resistor,2,$0.49,$0.98,Digikey,$47.38
+MBA02040C5101FRP00,5.1K Ohm Resistor,2,$0.11,$0.22,Digikey,$47.61
+MBA02040C2209FCT00,22 Ohm Resistor,2,$0.21,$0.42,Digikey,$48.06
+FK14X5R0J226MR020,22 µF Capacitor,2,$0.50,$1.00,Digikey,$49.13
+FK14X7R2A104KN020,0.1 µF Capacitor,10,$0.25,$2.53,Digikey,$51.83
+FG18C0G1H120JNT06,12pF Capacitor,2,$0.22,$0.44,Digikey,$52.30
+FG18X7R1A225KRT06,2.2 µF Capacitor,4,$0.32,$1.28,Digikey,$53.66
+FK18X5R0J105KN020,1 µF Capacitor,2,$0.28,$0.56,Digikey,$54.26
+FK18X5R1A475KR020,4.7 µF Capacitor,1,$0.34,$0.34,Digikey,$54.62
+ECE-A1EKA100I,10 µF Polarized Capacitor,5,$0.26,$1.30,Digikey,$56.01
