@@ -1,31 +1,31 @@
 Part Name,Description,Quantity,Unit Price,Total Price,URL,Running Total
-ESP32-WROOM-32E-N4,MCU,1,$3.22,$3.22,AliExpress,$3.43
-CP2102-GMR,USB to UART,1,$0.80,$0.80,AliBaba,$4.28
-SD-6-B,SD Card Reader,1,$0.58,$0.58,Same Sky,$4.90
-1825910-6,6mm Button,6,$0.06,$0.34,AliExpress,$5.26
-PCM5102APWR,Audio Jack Controller,1,$1.00,$1.00,AliBaba,$6.33
-MAX98357AETE+T,Speaker Controller,1,$0.10,$0.10,AliBaba,$6.44
-SJ-3523-SMT-TR,Headphone Jack,1,$0.88,$0.88,DigiKey,$7.38
-AI-4328-P-C120D-R,Speaker,1,$16.92,$16.92,DigiKey,$25.42
-2477,Battery Holder,1,$1.87,$1.87,Digikey,$27.41
-MCP1826S-3302E/AB,LDO,1,$0.66,$0.66,AliBaba,$28.11
-USB4085-GF-A,USB-C Connector,1,$0.04,$0.04,AliBaba,$28.15
-1N5819,Schottky Diode,1,$0.01,$0.01,AliBaba,$28.16
-SSK02-FPH-254-A14,Display 14 Pin Connector,1,$0.54,$0.54,DigiKey,$28.74
-ILI9341,2.4 Inch TFT Display,1,$5.16,$5.16,AliExpress,$34.24
-PCB,JLCPCB for project,5,$1.64,$8.20,JLCPCB,$42.98
-ABS07-32.768KHZ-T,32.768 Khz Crsytal,1,$0.61,$0.61,Digikey,$43.63
-MBA02040C3003FC100,300K Ohm Resistor,1,$0.66,$0.66,Digikey,$44.33
-MBA02040C1002FRP00,10K Ohm Resistor,10,$0.10,$0.95,Digikey,$45.34
-MBA02040Z0000ZCT00,0 Ohm Resistor,2,$0.14,$0.28,Digikey,$45.64
-MBA02040C5104FC100,5M Ohm Resistor,1,$0.39,$0.39,Digikey,$46.06
-MBA02040C4707JC100,470 Ohm Resistor,2,$0.49,$0.98,Digikey,$47.10
-MBA02040C5101FRP00,5.1K Ohm Resistor,2,$0.11,$0.22,Digikey,$47.33
-MBA02040C2209FCT00,22 Ohm Resistor,2,$0.21,$0.42,Digikey,$47.78
-FK14X5R0J226MR020,22 µF Capacitor,2,$0.50,$1.00,Digikey,$48.85
-FK14X7R2A104KN020,0.1 µF Capacitor,10,$0.25,$2.53,Digikey,$51.55
-FG18C0G1H120JNT06,12pF Capacitor,2,$0.22,$0.44,Digikey,$52.02
-FG18X7R1A225KRT06,2.2 µF Capacitor,4,$0.32,$1.28,Digikey,$53.38
-FK18X5R0J105KN020,1 µF Capacitor,2,$0.28,$0.56,Digikey,$53.98
-FK18X5R1A475KR020,4.7 µF Capacitor,1,$0.34,$0.34,Digikey,$54.34
-ECE-A1EKA100I,10 µF Polarized Capacitor,5,$0.26,$1.30,Digikey,$55.73
+ESP32-WROOM-32E-N4,MCU,1,$3.22,$3.22,https://www.aliexpress.us/item/3256806057158706.html?utparam-url=scene%3Asearch%7Cquery_from%3Apc_back_same_best%7Cx_object_id%3A1005006243473458%7C_p_origin_prod%3A&algo_pvid=df30c4ff-dec8-4a3b-af10-f2fe7d864fab&algo_exp_id=df30c4ff-dec8-4a3b-af10-f2fe7d864fab&pdp_ext_f=%7B%22order%22%3A%22237%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.29%210.99%21%21%213.29%210.99%21%402103122117772588423246279e2c68%2112000052254647571%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A73118c74%3Bm03_new_user%3A-29895%3BpisId%3A5000000203712600&gatewayAdapt=4itemAdapt,$3.43
+CP2102-GMR,USB to UART,1,$0.80,$0.80,https://www.alibaba.com/product-detail/New-and-Original-CP2102-GMR-Electronic_1601731751516.html?priceId=cb0ce5b769d94795981c469bdce9a953,$4.28
+SD-6-B,SD Card Reader,1,$0.58,$0.58,https://www.sameskydevices.com/product/interconnect/connectors/memory-card-connectors/sd-card-connectors/sd-6-b?srsltid=AfmBOoril4IXa0zYMeqRdO9H5vuY9dfO0f5PHj1uIutQLSDhJAolr3nc,$4.90
+1825910-6,6mm Button,6,$0.06,$0.34,https://www.aliexpress.us/item/3256805658758223.html?algo_pvid=5b5d2596-e29a-46b4-bfae-5d09a7e446dd&algo_exp_id=5b5d2596-e29a-46b4-bfae-5d09a7e446dd-16&pdp_ext_f=%7B%22order%22%3A%223214%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.09%210.99%21%21%211.09%210.99%21%402101e2b017785468262657316ef6b8%2112000034553364519%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A1ae5c6f1%3Bm03_new_user%3A-29895%3BpisId%3A5000000203537363&curPageLogUid=a4N1OIlqDFoz&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005845072975%7C_p_origin_prod%3A,$5.26
+PCM5102APWR,Audio Jack Controller,1,$1.00,$1.00,https://www.alibaba.com/product-detail/New-and-Original-MAX98357AETE-T-Electronic_1601732000471.html?priceId=2ccbc724114a490fb1ee81e4e230e6b8,$6.33
+MAX98357AETE+T,Speaker Controller,1,$0.10,$0.10,https://www.alibaba.com/product-detail/New-and-Original-MAX98357AETE-T-Electronic_1601732000471.html?priceId=2ccbc724114a490fb1ee81e4e230e6b8,$6.44
+SJ-3523-SMT-TR,Headphone Jack,1,$0.88,$0.88,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SJ-3523-SMT-TR/281297,$7.38
+AI-4328-P-C120D-R,Speaker,1,$16.92,$16.92,https://www.digikey.com/en/products/detail/pui-audio-inc/ai-4328-p-c120d-r/1738481,$25.42
+2477,Battery Holder,1,$1.87,$1.87,https://www.digikey.com/en/products/detail/keystone-electronics/2477/303822,$27.41
+MCP1826S-3302E/AB,LDO,1,$0.66,$0.66,https://www.alibaba.com/product-detail/Electronic-Circuit-Components-MCP1826S-3302E-AB_1601731375638.html?priceId=8291b1507dca417ca7b029191e1e88de,$28.11
+USB4085-GF-A,USB-C Connector,1,$0.04,$0.04,https://www.alibaba.com/product-detail/Hainayu-BOM-capacitor-resistance-table-quotation_1601270438701.html?priceId=a70c80eafee34aba80d3bcf18a5baf0e,$28.15
+1N5819,Schottky Diode,1,$0.01,$0.01,https://www.alibaba.com/product-detail/Through-hole-Schottky-Diodes-1N5817-1N5818_1601557699434.html?selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=6f243cc781264e41885941c826333b64,$28.16
+SSK02-FPH-254-A14,Display 14 Pin Connector,1,$0.54,$0.54,https://www.digikey.com/en/products/detail/molex/0530471410/259377,$28.74
+ILI9341,2.4 Inch TFT Display,1,$5.16,$5.16,https://www.aliexpress.us/item/3256803732365701.html?algo_pvid=335efabf-7043-43e3-b1e5-88cb6faf5a31&algo_exp_id=335efabf-7043-43e3-b1e5-88cb6faf5a31-15&pdp_ext_f=%7B%22order%22%3A%22208%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.45%211.78%21%21%214.45%211.78%21%402103128917785486140741950e4710%2112000056542062912%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A46ae3b9e%3Bm03_new_user%3A-29895%3BpisId%3A5000000204886261&curPageLogUid=W4D3fCRCIHOw&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003918680453%7C_p_origin_prod%3A,$34.24
+PCB,JLCPCB for project,5,$1.64,$8.20,https://jlcpcb.com/,$42.98
+ABS07-32.768KHZ-T,32.768 Khz Crsytal,1,$0.61,$0.61,https://www.digikey.com/en/products/detail/abracon-llc/ABS07-32-768KHZ-T/1236858,$43.63
+MBA02040C3003FC100,300K Ohm Resistor,1,$0.66,$0.66,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C3003FC100/7350347,$44.33
+MBA02040C1002FRP00,10K Ohm Resistor,10,$0.10,$0.95,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040Z0000ZCT00/5066485,$45.34
+MBA02040Z0000ZCT00,0 Ohm Resistor,2,$0.14,$0.28,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040Z0000ZCT00/5066485,$45.64
+MBA02040C5104FC100,5M Ohm Resistor,1,$0.39,$0.39,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C5104FC100/5059352?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIA7BQJwQC6hADgC5QgDKzATgJYB2AcxABfQgCYADAA4ArIhApIGHAWJkQMgHRgABAFkA8gAsAtthAMQLNgFU%2BPZgdR7c6bAFcuuEYQC0Y%2BUVud1USSHI5OmFREADwkC9sHmxmIi5zKKA,$46.06
+MBA02040C4707JC100,470 Ohm Resistor,2,$0.49,$0.98,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C4707JC100/5059320?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIA7BQJwQC6hADgC5QgDKzATgJYB2AcxABfQgCYADAA4ArIhApIGHAWJkQMChIAEAWwDyAC13YQDECzYBVPj2b7UAWVzpsAVy64RhALRj5itxuqiSQ5HJ0wqIg-mEgntg82MxEXKaRQA,$47.10
+MBA02040C5101FRP00,5.1K Ohm Resistor,2,$0.11,$0.22,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C5101FRP00/333758,$47.33
+MBA02040C2209FCT00,22 Ohm Resistor,2,$0.21,$0.42,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C2209FCT00/5062426,$47.78
+FK14X5R0J226MR020,22 µF Capacitor,2,$0.50,$1.00,https://www.digikey.com/en/products/detail/tdk/FK14X5R0J226MR020/2815215,$48.85
+FK14X7R2A104KN020,0.1 µF Capacitor,10,$0.25,$2.53,https://www.digikey.com/en/products/detail/tdk/FK14X7R2A104KN020/2815243,$51.55
+FG18C0G1H120JNT06,12pF Capacitor,2,$0.22,$0.44,https://www.digikey.com/en/products/detail/tdk/FG18C0G1H120JNT06/5802787,$52.02
+FG18X7R1A225KRT06,2.2 µF Capacitor,4,$0.32,$1.28,https://www.digikey.com/en/products/detail/tdk/FG18X7R1A225KRT06/5802874,$53.38
+FK18X5R0J105KN020,1 µF Capacitor,2,$0.28,$0.56,https://www.digikey.com/en/products/detail/tdk/FK18X5R0J105KN020/2815325,$53.98
+FK18X5R1A475KR020,4.7 µF Capacitor,1,$0.34,$0.34,https://www.digikey.com/en/products/detail/tdk/FK18X5R1A475KR020/2815334,$54.34
+ECE-A1EKA100I,10 µF Polarized Capacitor,5,$0.26,$1.30,https://www.digikey.com/en/products/detail/panasonic-industry/ECE-A1EKA100I/2689086,$55.73
