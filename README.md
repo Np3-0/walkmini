@@ -21,6 +21,9 @@ Music is one of the only genres that can connect people who believe in different
 On the main page, there are six options (characterized with icons): Restart, Pause/Resume, Skip, Songs, Shuffle, and Settings.
 <br>The settings page contains Customize, Bluetooth, and Contributions.
 
+## Photos
+### **PCB**:<br> <img width="773" height="471" alt="image" src="https://github.com/user-attachments/assets/839583b6-852c-4db3-9d69-c753b318ee63" />
+
 ## BOM
 | Part Name      | Description | Quantity | Unit Price | Total Price | URL | Running Total |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
