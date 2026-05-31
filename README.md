@@ -47,16 +47,16 @@ On the main page, there are six options (characterized with icons): Restart, Pau
 | MBA02040C1002FRP00 | 10K Ohm Resistor | 10 | $0.095 | $0.95 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C1002FRP00/336349) | $45.34
 | MBA02040Z0000ZCT00 | 0 Ohm Resistor | 2 | $0.14 | $0.28 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040Z0000ZCT00/5066485) | $45.64
 | MBA02040C5104FC100 | 5M Ohm Resistor | 1 | $0.39 | $0.39 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C5104FC100/5059352?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIA7BQJwQC6hADgC5QgDKzATgJYB2AcxABfQgCYADAA4ArIhApIGHAWJkQMgHRgABAFkA8gAsAtthAMQLNgFU%2BPZgdR7c6bAFcuuEYQC0Y%2BUVud1USSHI5OmFREADwkC9sHmxmIi5zKKA) | $46.06
-| MBA02040C4707JC100 | 470 Ohm Resistor | 2 | $0.49 | $0.98 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C4707JC100/5059320?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIA7BQJwQC6hADgC5QgDKzATgJYB2AcxABfQgCYADAA4ArIhApIGHAWJkQMChIAEAWwDyAC13YQDECzYBVPj2b7UAWVzpsAVy64RhALRj5itxuqiSQ5HJ0wqIg-mEgntg82MxEXKaRQA) | $47.10
-| MBA02040C5101FRP00 | 5.1K Ohm Resistor | 2 | $0.11 | $0.22 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C5101FRP00/333758) | $47.33
-| MBA02040C2209FCT00 | 22 Ohm Resistor | 2 | $0.21 | $0.42 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C2209FCT00/5062426) | $47.78
-| FK14X5R0J226MR020 | 22 µF Capacitor | 2 | $0.50 | $1.00 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FK14X5R0J226MR020/2815215) | $48.85
-| FK14X7R2A104KN020 | 0.1 µF Capacitor | 10 | $0.253 | $2.53 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FK14X7R2A104KN020/2815243) | $51.55
-| FG18C0G1H120JNT06 | 12pF Capacitor | 2 | $0.22 | $0.44 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FG18C0G1H120JNT06/5802787) | $52.02
-| FG18X7R1A225KRT06 | 2.2 µF Capacitor | 4 | $0.32 | $1.28 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FG18X7R1A225KRT06/5802874) | $53.38
-| FK18X5R0J105KN020 | 1 µF Capacitor | 2 | $0.28 | $0.56 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FK18X5R0J105KN020/2815325) | $53.98
-| FK18X5R1A475KR020 | 4.7 µF Capacitor | 1 | $0.34 | $0.34 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FK18X5R1A475KR020/2815334) | $54.34
-| ECE-A1EKA100I | 10 µF Polarized Capacitor | 5 | $0.26 | $1.30 | [Digikey](https://www.digikey.com/en/products/detail/panasonic-industry/ECE-A1EKA100I/2689086) | $55.73
+| MBA02040C4707JC100 | 470 Ohm Resistor | 2 | $0.11 | $0.22 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C4700FRP00/333739) | $46.29
+| MBA02040C5101FRP00 | 5.1K Ohm Resistor | 2 | $0.11 | $0.22 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C5101FRP00/333758) | $46.52
+| MBA02040C2209FCT00 | 22 Ohm Resistor | 2 | $0.21 | $0.42 | [Digikey](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C2209FCT00/5062426) | $46.97
+| FK14X5R0J226MR020 | 22 µF Capacitor | 2 | $0.50 | $1.00 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FK14X5R0J226MR020/2815215) | $48.04
+| FK14X7R2A104KN020 | 0.1 µF Capacitor | 10 | $0.253 | $2.53 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FK14X7R2A104KN020/2815243) | $50.74
+| FG18C0G1H120JNT06 | 12pF Capacitor | 2 | $0.22 | $0.44 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FG18C0G1H120JNT06/5802787) | $51.21
+| FG18X7R1A225KRT06 | 2.2 µF Capacitor | 4 | $0.32 | $1.28 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FG18X7R1A225KRT06/5802874) | $52.57
+| FK18X5R0J105KN020 | 1 µF Capacitor | 2 | $0.28 | $0.56 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FK18X5R0J105KN020/2815325) | $53.17
+| FK18X5R1A475KR020 | 4.7 µF Capacitor | 1 | $0.34 | $0.34 | [Digikey](https://www.digikey.com/en/products/detail/tdk/FK18X5R1A475KR020/2815334) | $53.53
+| ECE-A1EKA100I | 10 µF Polarized Capacitor | 5 | $0.26 | $1.30 | [Digikey](https://www.digikey.com/en/products/detail/panasonic-industry/ECE-A1EKA100I/2689086) | $54.92
 
 
 **Enjoy!**
