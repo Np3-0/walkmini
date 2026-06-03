@@ -22,7 +22,10 @@ On the main page, there are six options (characterized with icons): Restart, Pau
 <br>The settings page contains Customize, Bluetooth, and Contributions.
 
 ## Photos
-### **PCB**:<br> <img width="773" height="471" alt="image" src="https://github.com/user-attachments/assets/839583b6-852c-4db3-9d69-c753b318ee63" />
+### **PCB**:<br> <img width="773" height="471" alt="image of pcb in kicad" src="https://github.com/user-attachments/assets/839583b6-852c-4db3-9d69-c753b318ee63" />
+### **Zine:** <br> <img width="540" height="828" alt="walkmini_zine" src="https://github.com/user-attachments/assets/46afb551-3832-4efa-b77f-e7816cc02514" />
+
+##
 
 ## BOM
 | Part Name      | Description | Quantity | Unit Price | Total Price | URL | Running Total |
