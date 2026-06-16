@@ -21,6 +21,14 @@ Music is one of the only genres that can connect people who believe in different
 On the main page, there are six options (characterized with icons): Restart, Pause/Resume, Skip, Songs, Shuffle, and Settings.
 <br>The settings page contains Customize, Bluetooth, and Contributions.
 
+## How to Build
+1. Buy all parts listed.
+2. Print the case bottom, top, and battery cover (I would recommend either TPU or PLA).
+3. Once the PCB arrives, solder all components onto it, following the PCB layout.
+4. Connect a USB-C cable to the USB-header from your computer, and use the Arduino editor to flash the firmware onto the ESP.
+5. Put the assembled PCB inside of the case, and enjoy!
+6. Make sure you have songs loaded into the SD Card. 
+
 ## Photos
 ### **PCB**:<br> <img width="773" height="471" alt="image of pcb in kicad" src="https://github.com/user-attachments/assets/839583b6-852c-4db3-9d69-c753b318ee63" />
 ### **Zine:** <br> <img width="643" height="998" alt="zine" src="https://github.com/user-attachments/assets/598948db-143e-44b0-87b5-49a2edb62332" />
