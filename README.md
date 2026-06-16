@@ -71,8 +71,6 @@ Made with love by Np3 (nate), 17, NJ
 [^1]: Price is assumed for one SD-reader. For multiple, go [here:](https://www.alibaba.com/product-detail/Brand-New-Original-CONN-SD-CARD_1601485307544.html?priceId=8b2470e5a66946c49b35714d15eefd60)
 [^2]: Button comes in package of 20.
 
-Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
-
 # License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
