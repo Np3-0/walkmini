@@ -23,7 +23,9 @@ On the main page, there are six options (characterized with icons): Restart, Pau
 
 ## Photos
 ### **PCB**:<br> <img width="773" height="471" alt="image of pcb in kicad" src="https://github.com/user-attachments/assets/839583b6-852c-4db3-9d69-c753b318ee63" />
-### **Zine:** <br> <img width="540" height="828" alt="walkmini_zine" src="https://github.com/user-attachments/assets/46afb551-3832-4efa-b77f-e7816cc02514" />
+### **Zine:** <br> <img width="643" height="998" alt="zine" src="https://github.com/user-attachments/assets/598948db-143e-44b0-87b5-49a2edb62332" />
+### **CAD: (Link [here](https://cad.onshape.com/documents/891581ea64ec99eaf423b0d6/w/ed4d009452ec0fea7080dfa2/e/6ade851cf838900c5ee38ccd?renderMode=0&uiState=6a30aacfb006c78147cf0bbc))** <br> <img width="682" height="366" alt="cad" src="https://github.com/user-attachments/assets/600f9b13-e10c-4a24-8b63-0b624ccb71d5" />
+
 
 ##
 
